@@ -27,19 +27,19 @@ Travel bot - это телеграм бот, который поможет на�
 
 В окне чата мы видим сообщения, отправляемые боту и принимаемые нами. Для запуска бота необходимо нажать кнопку Старт.
 
-  ![ChatScreen](https://github.com/BoryaD/PacMan/blob/master/Images/Mockups/New%20Mockup%204.png)
+  ![ChatScreen](https://github.com/Kyrsor/TelegramBot/blob/master/Images/Mockups/ChatScreen.jpg)
   
 - Экран сообщения с городом
 
 На данном экране имеется сообщение с городом, информацию о котором нужно получить.
 
-  ![MessageScreen](https://github.com/BoryaD/PacMan/blob/master/Images/Mockups/New%20Mockup%202.png)
+  ![MessageScreen](https://github.com/Kyrsor/TelegramBot/blob/master/Images/Mockups/MessageScreen.jpg)
   
 - "Экран информации"
 
 На данном экране выводится информация о запрашиваемом городе.
 
-  ![InfoScreen](https://github.com/BoryaD/PacMan/blob/master/Images/Mockups/New%20Mockup%203.png)
+  ![InfoScreen](https://github.com/Kyrsor/TelegramBot/blob/master/Images/Mockups/InfoScreen.jpg)
 
 #### 2.3. Характеристики пользователей <a name="2.3"></a>
 - Целевая аудитория
