@@ -24,5 +24,5 @@
 <a name="4"/>
 
 # 4. Выйти из игры
-![Acitvity diagram 4](https://github.com/Kyrsor/Alien-Invasion/blob/master/Images/Diagrams/Activity3.png)
+![Acitvity diagram 4](https://github.com/Kyrsor/Alien-Invasion/blob/master/Images/Diagrams/Activity4.png)
 
