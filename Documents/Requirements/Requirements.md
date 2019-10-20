@@ -52,7 +52,7 @@ Alien Invasion - аркадная игра, в которой предстоит
 
 На данном экране находится описание игры с правилами.
 
-  ![AboutScreen](https://github.com/Kyrsor/Alien-Invasion/blob/master/Images/Mockups/About.png)
+  ![AboutScreen](https://github.com/Kyrsor/Alien-Invasion/blob/master/Images/Mockups/AboutScreen.png)
 
 #### 2.3. Характеристики пользователей <a name="2.3"></a>
 - Целевая аудитория
