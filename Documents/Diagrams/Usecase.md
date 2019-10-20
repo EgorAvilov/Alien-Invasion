@@ -1,6 +1,6 @@
 # Диаграмма вариантов использования
 
-![Диаграмма вариантов использования](https://github.com/Kyrsor/Alien-Invasion/blob/master/Images/Diagrams/UseCase.png)
+![Диаграмма вариантов использования](https://github.com/Kyrsor/Alien-Invasion/blob/master/Images/Diagrams/Use1ase.png)
 
 # Содержание
 
