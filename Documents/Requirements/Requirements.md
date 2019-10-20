@@ -44,7 +44,7 @@ Alien Invasion - аркадная игра, в которой предстоит
   
 - "Экран рекорда"
 
-На данном экране имееется о самом большом набранном количестве очков
+На данном экране имееется информация  о самом большом набранном количестве очков
 
   ![HighScoreScreen](https://github.com/Kyrsor/Alien-Invasion/blob/master/Images/Mockups/HighScoreScreen.png)
   
