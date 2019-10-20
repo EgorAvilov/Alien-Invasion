@@ -34,25 +34,25 @@ Alien Invasion - аркадная игра, в которой предстоит
 
 В меню находится главный функционал приложения.
 
-  ![MenuScreen](https://github.com/BoryaD/PacMan/blob/master/Images/Mockups/New%20Mockup%201.png)
+  ![MenuScreen](https://github.com/Kyrsor/Alien-Invasion/blob/master/Images/Mockups/MenuScreen.png)
   
 - Экран игры
 
-В окне с игрой мы видим текущие очки, оставшееся количество жизней и игровое поле.
+В окне с игрой мы видим игровой процесс.
 
-  ![GameScreen](https://github.com/BoryaD/PacMan/blob/master/Images/Mockups/New%20Mockup%204.png)
+  ![GameScreen](https://github.com/Kyrsor/Alien-Invasion/blob/master/Images/Mockups/GameProcessScreen.png)
   
-- "Экран опций"
+- "Экран рекорда"
 
-На данном экране имеются настройки сложности игры (простой, средний, сложный) и включение режима автоматической игры.
+На данном экране имееется о самом большом набранном количестве очков
 
-  ![OptionScreen](https://github.com/BoryaD/PacMan/blob/master/Images/Mockups/New%20Mockup%202.png)
+  ![OptionScreen](https://github.com/Kyrsor/Alien-Invasion/blob/master/Images/Mockups/HighScoreScreen.png)
   
 - "Экран информации"
 
 На данном экране находится описание игры с правилами.
 
-  ![AboutScreen](https://github.com/BoryaD/PacMan/blob/master/Images/Mockups/New%20Mockup%203.png)
+  ![AboutScreen](https://github.com/Kyrsor/Alien-Invasion/blob/master/Images/Mockups/About.png)
 
 #### 2.3. Характеристики пользователей <a name="2.3"></a>
 - Целевая аудитория
