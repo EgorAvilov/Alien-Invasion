@@ -40,7 +40,7 @@ Alien Invasion - аркадная игра, в которой предстоит
 
 В окне с игрой мы видим игровой процесс.
 
-  ![GameScreen](https://github.com/Kyrsor/Alien-Invasion/blob/master/Images/Mockups/GameProcessScreen1.png)
+  ![GameScreen](https://github.com/Kyrsor/Alien-Invasion/blob/master/Images/Mockups/GameScreen.png)
   
 - "Экран рекорда"
 
