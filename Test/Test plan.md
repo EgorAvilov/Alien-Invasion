@@ -81,7 +81,7 @@
 
 <a name="6"></a>
 ## 6. Представление результатов
-Результаты тестирования представлены в [документе](https://github.com/BoryaD/PacMan/blob/master/Testing/Test%20results.md).
+Результаты тестирования представлены в [документе](https://github.com/Kyrsor/Alien-Invasion/blob/master/Test/Test%20results.md).
 
 <a name="7"></a>
 ## 7. Вывод
